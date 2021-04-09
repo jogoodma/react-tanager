@@ -1,0 +1,7 @@
+include react_tanager/react_tanager.min.js
+include react_tanager/react_tanager.min.js.map
+include react_tanager/metadata.json
+include react_tanager/package-info.json
+include README.md
+include LICENSE
+include package.json
